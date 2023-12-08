@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.text-reset{
+    text-decoration: none;
+}
+@media (max-width: 800PX) {
+    .card-text  {
+      font-size: 5px;
+    }
+    .card-img {
+        height: 250px;
+    }
+}
